@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Harmony's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleanrig)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **cleanrig/cleanrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
